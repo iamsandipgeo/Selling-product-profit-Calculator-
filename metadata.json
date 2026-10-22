@@ -1,0 +1,6 @@
+{
+  "name": "Smart Profit Calculator",
+  "description": "A comprehensive profit, cost, and pricing calculator for Indian online and wholesale sellers in Indian Rupees (₹).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
